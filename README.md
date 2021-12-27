@@ -1,1 +1,1 @@
-[Ecommerce Clone](https://ecommerce-clone.vercel.app/)
+Amazon Clone - [Ecommerce Clone](https://ecommerce-clone.vercel.app/)
